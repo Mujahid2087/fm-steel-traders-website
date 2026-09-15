@@ -1,34 +1,14 @@
-FM STEEL TRADERS — SEO V2 WEBSITE
+FM STEEL TRADERS – SEO V3 PRODUCT TARGETING
 
-Purpose:
-SEO-focused static website for FM STEEL TRADERS, Chakan, Pune.
+This package adds dedicated pages for all 12 currently listed MS plain/flat washer sizes.
 
-Main SEO improvements:
-- Stronger page titles and meta descriptions around MS plain/flat washer supplier/manufacturer + Pune/Chakan.
-- Canonical URLs and index/follow directives.
-- LocalBusiness / page structured data on relevant pages.
-- Better internal linking and natural keyword coverage.
-- Product size table contains all 12 current washer sizes.
-- Visible FAQ content on homepage.
-- robots.txt and sitemap.xml included.
-- No prices published on the website.
-- No unsupported ISO, OEM, tolerance, material-grade or certification claims added.
+Key improvements:
+- Products page now links each exact OD × ID × thickness size to its own page.
+- 12 dedicated long-tail product pages added.
+- Each page has a unique title, meta description, canonical URL and product-specific content.
+- Products page includes ItemList structured data for the 12 product URLs.
+- Sitemap updated with all 17 public URLs.
+- No prices, unsupported certifications, grades, tolerances or OEM claims added.
+- Representative product imagery is clearly labelled; replace with actual FM STEEL TRADERS photos when available.
 
-Files to upload to the GitHub Pages repository root:
-index.html
-products.html
-company.html
-contact.html
-return-policy.html
-styles.css
-robots.txt
-sitemap.xml
-
-After upload:
-1. Open https://fmsteeltraders.in/ and check the site.
-2. In Google Search Console, inspect the homepage and Products page.
-3. Request indexing for changed URLs if needed.
-4. The sitemap URL is https://fmsteeltraders.in/sitemap.xml
-
-Important:
-The business should verify all phone/email/location and commercial-policy details before publishing. The return-policy page is a draft commercial guideline and should be approved by the business owner.
+After uploading to GitHub Pages, use Search Console URL Inspection to request indexing for products.html and the new product pages.
